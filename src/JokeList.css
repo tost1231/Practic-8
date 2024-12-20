@@ -1,0 +1,14 @@
+.joke-list {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .joke-list button {
+    margin-bottom: 20px;
+  }
+  
+  .joke-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
